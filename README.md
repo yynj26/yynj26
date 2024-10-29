@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Julie Yang.
+# Hi there 👋 I'm Yue Yang.
 
 
 ## 🛠️ Tech Stack
